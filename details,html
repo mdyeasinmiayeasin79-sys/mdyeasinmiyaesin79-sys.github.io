@@ -1,1 +1,151 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Online Income - Bangla Yeasin Earn</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f1f7ff;
+      color: #555;
+    }
+
+    header {
+      background: #1260d6;
+      color: white;
+      text-align: center;
+      padding: 42px 20px;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 34px;
+    }
+
+    header p {
+      font-size: 20px;
+      margin: 18px 0 0;
+    }
+
+    .container {
+      padding: 35px 20px;
+      max-width: 700px;
+      margin: auto;
+    }
+
+    .card {
+      background: white;
+      border-radius: 25px;
+      padding: 28px;
+      margin-bottom: 25px;
+      box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+    }
+
+    .card h2 {
+      color: #1260d6;
+      font-size: 27px;
+      margin-top: 0;
+    }
+
+    .card p {
+      font-size: 19px;
+      line-height: 1.7;
+    }
+
+    .work {
+      border-left: 6px solid #1260d6;
+      padding-left: 18px;
+      margin-top: 25px;
+    }
+
+    .work h3 {
+      color: #1260d6;
+      margin-bottom: 8px;
+      font-size: 22px;
+    }
+
+    .back {
+      display: block;
+      text-align: center;
+      background: #1260d6;
+      color: white;
+      text-decoration: none;
+      padding: 16px;
+      border-radius: 15px;
+      font-size: 20px;
+      font-weight: bold;
+      margin-top: 30px;
+    }
+
+    footer {
+      background: #1260d6;
+      color: white;
+      text-align: center;
+      padding: 28px 10px;
+      font-size: 18px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Bangla Yeasin Earn</h1>
+  <p>Online work and income information</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>💰 Online Income</h2>
+
+    <p>
+      এখানে বিভিন্ন ধরনের অনলাইন কাজ ও আয়ের
+      সুযোগ সম্পর্কে তথ্য দেওয়া হবে।
+    </p>
+
+    <div class="work">
+      <h3>📱 Online Work</h3>
+      <p>
+        মোবাইল ব্যবহার করে করা যায় এমন বিভিন্ন
+        অনলাইন কাজ সম্পর্কে বিস্তারিত তথ্য এখানে
+        দেওয়া হবে।
+      </p>
+    </div>
+
+    <div class="work">
+      <h3>💻 Freelancing</h3>
+      <p>
+        ফ্রিল্যান্সিং এবং অনলাইনে দক্ষতা ব্যবহার করে
+        কাজ করার বিষয়ে প্রয়োজনীয় তথ্য পাওয়া যাবে।
+      </p>
+    </div>
+
+    <div class="work">
+      <h3>🌐 Website Work</h3>
+      <p>
+        ওয়েবসাইট ও অনলাইন প্ল্যাটফর্মের মাধ্যমে
+        কাজ করার বিভিন্ন তথ্য এখানে যুক্ত করা হবে।
+      </p>
+    </div>
+
+    <a class="back" href="index.html">← Back to Home</a>
+  </div>
+
+</div>
+
+<footer>
+  © 2026 Bangla Yeasin Earn
+</footer>
+
+</body>
+</html>
